@@ -1,12 +1,13 @@
 import React from 'react'
 import './Hero.css'
 
+const { PUBLIC_URL } = process.env;
 
 const Hero = () => {
     return (
         <div className='hero'>
             <video className='background-video' autoPlay loop muted>
-                <source src={process.env.PUBLIC_URL + '/images/rainforestburning.mp4'} type='video/mp4' />
+                <source src={`${PUBLIC_URL}/images/rainforestburning.mp4`} type='video/mp4' />
             </video>
             <div className='content'>
                 <p>Save Amazon Rainforest</p>
