@@ -1,11 +1,12 @@
 import React from 'react'
 import './Hero.css'
 
+
 const Hero = () => {
     return (
         <div className='hero'>
             <video className='background-video' autoPlay loop muted>
-                <source src="images/rainforestburning.mp4" type='video/mp4' />
+                <source src="/images/rainforestburning.mp4" type='video/mp4' />
             </video>
             <div className='content'>
                 <p>Save Amazon Rainforest</p>
