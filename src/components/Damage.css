@@ -1,0 +1,18 @@
+/* StatusCardsContainer.css */
+
+.damage {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 1rem;
+    margin-top: -6rem;
+    z-index: 9998;
+    position: sticky;
+}
+
+/* For smaller screens, you might want to add some responsive styling */
+@media (max-width: 768px) {
+    .damage {
+        flex-direction: column;
+    }
+}
