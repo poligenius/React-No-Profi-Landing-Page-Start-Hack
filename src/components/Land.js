@@ -3,7 +3,6 @@ import FireMap from './FireMap';
 import Incidents from './Incidents';
 import './Land.css';
 import LostForestHist from './LostForestHist';
-import trees_on_fire from'./images/trees_on_fire.jpeg';
 
 const Land = () => {
     return (
