@@ -1,6 +1,5 @@
 import React, { useState } from 'react'
 import { FaBars, FaTimes } from 'react-icons/fa'
-import logo from './images/logo.png'
 
 import './Navbar.css'
 
@@ -15,7 +14,7 @@ const Navbar = () => {
         <div className='header'>
             <nav className='navbar'>
                 <a href='/' className='logo'>
-                    <img src={logo} alt='logo' />
+                    <img src="/images/logo.png" alt='logo' />
                 </a>
                 <div className='hamburger' onClick={handleClick}>
                     {click ? (<FaTimes size={30} style={{ color: '#ffffff' }} />)
