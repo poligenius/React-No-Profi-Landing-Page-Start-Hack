@@ -1,8 +1,6 @@
 import React from 'react'
 import './Hero.css'
 
-const { PUBLIC_URL } = process.env;
-
 const Hero = () => {
     return (
         <div className='hero'>
