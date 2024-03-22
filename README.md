@@ -1,3 +1,7 @@
+Repo created for Start Hack 2024
+
+It contains react code to power a landing page for a no profit organization willing to rise awareness about Brazil wildfire problem.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
