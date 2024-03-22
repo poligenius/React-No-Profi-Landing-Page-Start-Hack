@@ -13,7 +13,7 @@ const Footer = () => {
                         <a href='#land'>Land</a>
                     </li>
                     <li className='nav-item'>
-                        <a href='#donation'>Donation</a>
+                        <a href='https://rainforestfoundation.org/engage/brazil-amazon-fires/?form=donate'>Donation</a>
                     </li>
                 </ul>
                 <div className='bottom'>

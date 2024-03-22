@@ -11,9 +11,8 @@ const Hero = () => {
             <div className='content'>
                 <p>Save Amazon Rainforest</p>
                 <p>Invest little Now so as not to pay much Tomorrow</p>
-                <button href='/' className='button'>Make the difference</button>
+                <a className='button' href='https://rainforestfoundation.org/engage/brazil-amazon-fires/?form=donate'>Make the difference</a>
             </div>
-                <button href='/' className='button'>Make the difference</button>
         </div>
     )
 }

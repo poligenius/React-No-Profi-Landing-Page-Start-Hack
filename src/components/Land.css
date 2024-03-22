@@ -9,17 +9,42 @@
 .description {
     color: white; /* white text */
     text-align: center; /* center aligned */
-    margin-bottom: 20px; /* optional: add some space below the description */
     font-size: 2.2rem;
     font-weight: 150;
     padding: 3.5rem;
 }
 
+.secondary-description {
+    color: white; /* white text */
+    justify-content: center;
+    text-align: center;
+    font-size: 1.4rem;
+    font-weight: 200;
+    padding: 3.5rem;
+    flex: 1; /* grow to occupy maximum width available. */
+    margin-right: 15px; /* add space between the text and image if required*/
+}
+
+.secondary-description-container {
+    display: flex;
+    justify-content: space-between; 
+    width: 90%;
+    height: auto; /* add this line, which adjusts the height based on content */
+    margin-bottom: 1rem;
+  }
+
+  .secondary-description-container > img {
+    object-fit: cover;
+    width:50%;
+    height:25%;
+    border-radius: 10px;
+}
+
 .dashboard_container {
-    width: 90%; /* adjust this to your needs */
-    height: 680px;
+    width: 80%; /* adjust this to your needs */
+    height: 670px;
     margin-bottom: 2rem; /* space between dashboards */
-    margin-top: 2rem;
+    margin-top: 1rem;
     background-color: white;
     border-radius: 20px;
 }
@@ -27,9 +52,9 @@
 .dashboard_container_incidents {
     display: flex;     /* Flex layout */
     justify-content: center; /* Horizontally center items */
-    width: 90%; /* adjust this to your needs */
+    width: 80%; /* adjust this to your needs */
     margin-bottom: 2rem; /* space between dashboards */
-    margin-top: 4rem;
+    margin-top: 0rem;
     background-color: white;
     align-items: center;
     height: 550px;
@@ -39,13 +64,13 @@
 .dashboard_container_hist {
     display: flex;     /* Flex layout */
     justify-content: center; /* Horizontally center items */
-    width: 90%; /* adjust this to your needs */
+    width: 80%; /* adjust this to your needs */
     margin-bottom: 2rem; /* space between dashboards */
     background-color: white;
     align-items: center;
     height: 600px;
     border-radius: 20px;
-    margin-top: 4rem;
+    margin-top: 0rem;
 }
 
 .dashboard_container iframe {

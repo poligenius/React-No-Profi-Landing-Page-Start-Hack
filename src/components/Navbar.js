@@ -30,7 +30,7 @@ const Navbar = () => {
                         <a href='#land' onClick={closeMenu}>LAND</a>
                     </li>
                     <li className='nav-item'>
-                        <a href='#donation' onClick={closeMenu}>DONATION</a>
+                        <a href='https://rainforestfoundation.org/engage/brazil-amazon-fires/?form=donate' onClick={closeMenu}>DONATION</a>
                     </li>
                 </ul>
             </nav>
