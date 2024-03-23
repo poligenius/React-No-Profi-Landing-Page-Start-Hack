@@ -1,8 +1,22 @@
-## Repo created for Start Hack 2024
+# Website created for Start Hack 2024 G20 use case
 
-It contains react code to power a landing page for a no profit organization willing to rise awareness about Brazil wildfire problem.
+This repo contains the code of a React landing page to rise awareness about the problem of wildfires in Brazil.
 
-# Getting Started with Create React App
+## Case Presentation
+In the last years wilfires have been a big problem in Brazil, they increase pollution, mortality, land degradation and moreover produce a really significant economical damage.
+The objective of the case was to find a solution to the problem and rise awarnes by:
+
+1. Produce a computer vision model using EfficentNet able to detect wildfires from drones or camera's footages
+2. Develop a dashboard or an application/website to rise awareness regarding the problem
+3. Propose the solution and show up the work done with a convincing pith presentation of 3 minutes
+
+## Model
+The code for the model can be found at thi repo.
+
+## Pitch Deck
+The pitch deck can be found at this link.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
