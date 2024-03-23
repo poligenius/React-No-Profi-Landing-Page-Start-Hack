@@ -1,6 +1,13 @@
 # Website created for Start Hack 2024 G20 use case
 
 This repo contains the code of a React landing page to rise awareness about the problem of wildfires in Brazil.
+Below a quick overview of how the landing page looks like:
+
+
+
+https://github.com/poligenius/React-No-Profi-Landing-Page-Start-Hack/assets/48245313/81a47bad-d09c-481c-83b8-17ac266ff340
+
+
 
 ## Case Presentation
 In the last years wilfires have been a big problem in Brazil, they increase pollution, mortality, land degradation and moreover produce a really significant economical damage.
@@ -12,6 +19,9 @@ The objective of the case was to find a solution to the problem and rise awarnes
 
 ## Model
 The code for the model can be found at thi repo.
+
+## Website
+The website is deployed [here](https://main--put-off-fire.netlify.app)
 
 ## Pitch Deck
 The pitch deck can be found at this link.
