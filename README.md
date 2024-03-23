@@ -1,8 +1,8 @@
 # Website created for Start Hack 2024 G20 use case
 
 This repo contains the code of a React landing page to rise awareness about the problem of wildfires in Brazil.
-Below a quick overview of how the landing page looks like:
 
+Below a quick overview of how the landing page looks like:
 
 
 https://github.com/poligenius/React-No-Profi-Landing-Page-Start-Hack/assets/48245313/81a47bad-d09c-481c-83b8-17ac266ff340
