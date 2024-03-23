@@ -1,4 +1,4 @@
-Repo created for Start Hack 2024
+## Repo created for Start Hack 2024
 
 It contains react code to power a landing page for a no profit organization willing to rise awareness about Brazil wildfire problem.
 
