@@ -13,9 +13,9 @@ https://github.com/poligenius/React-No-Profi-Landing-Page-Start-Hack/assets/4824
 In the last years wilfires have been a big problem in Brazil, they increase pollution, mortality, land degradation and moreover produce a really significant economical damage.
 The objective of the case was to find a solution to the problem and rise awarnes by:
 
-1. Produce a computer vision model using EfficentNet able to detect wildfires from drones or camera's footages
-2. Develop a dashboard or an application/website to rise awareness regarding the problem
-3. Propose the solution and show up the work done with a convincing pith presentation of 3 minutes
+1. Producing a computer vision model using EfficentNet able to detect wildfires from drones or camera's footages
+2. Developing a dashboard or an application/website to rise awareness regarding the problem
+3. Proposing the solution and show up the work done with a convincing pith presentation of 3 minutes
 
 ## Model
 The code for the model can be found at thi repo.
