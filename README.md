@@ -18,7 +18,7 @@ The objective of the case was to find a solution to the problem and rise awarnes
 3. Proposing the solution and show up the work done with a convincing pith presentation of 3 minutes
 
 ## Model
-The code for the model can be found at thi repo.
+The code for the model can be found in this [repo](https://github.com/poligenius/WildFire-Detection-from-drones-footages/tree/main).
 
 ## Website
 The website is deployed [here](https://main--put-off-fire.netlify.app)
