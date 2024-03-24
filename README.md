@@ -23,6 +23,9 @@ The code for the model can be found in this [repo](https://github.com/poligenius
 ## Website
 The website is deployed [here](https://main--put-off-fire.netlify.app)
 
+## Pitch Deck
+Pitch Deck containing use case description and our proposed solution available [here](https://www.canva.com/design/DAGAKRqmQxs/NdC0yxp5ga-9XFIc0ji76g/edit)
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
